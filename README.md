@@ -1,2 +1,2 @@
-# nlp_utils
+# NLP Utils
 A collection of utility functions for NLP
